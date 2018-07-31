@@ -1,0 +1,11 @@
+com/my/spring/batch/example/reader/DbQueryReader.class
+com/my/spring/batch/example/processor/FileProcessor.class
+com/my/spring/batch/example/config/BatchConfiguration.class
+com/my/spring/batch/example/BatchApplication.class
+com/my/spring/batch/example/processor/DbRowProcessor.class
+com/my/spring/batch/example/external/service/AwsS3Service.class
+com/my/spring/batch/example/writer/OutputFileWriter.class
+com/my/spring/batch/example/properties/AwsProperties.class
+com/my/spring/batch/example/properties/BatchProperties.class
+com/my/spring/batch/example/listener/BatchCompletionListener.class
+com/my/spring/batch/example/writer/OutputFileWriter$1.class

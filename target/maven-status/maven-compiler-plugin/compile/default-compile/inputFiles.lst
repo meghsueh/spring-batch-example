@@ -1,0 +1,10 @@
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/config/BatchConfiguration.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/BatchApplication.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/external/service/AwsS3Service.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/properties/BatchProperties.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/reader/DbQueryReader.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/listener/BatchCompletionListener.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/writer/OutputFileWriter.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/processor/FileProcessor.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/processor/DbRowProcessor.java
+/Development/Eclipse/workspace_mars/spring-batch-example/spring-batch-example/src/main/java/com/my/spring/batch/example/properties/AwsProperties.java
